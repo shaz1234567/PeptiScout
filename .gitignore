@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+**/.DS_Store
+
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+node_modules/
+dist/
+backend/models/
