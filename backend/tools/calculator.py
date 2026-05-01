@@ -1,5 +1,6 @@
 """Tool A — deterministic reconstitution calculator (no LLM)."""
 
+from typing import Any
 from typing import Literal
 
 from pydantic import BaseModel, Field, field_serializer
@@ -51,3 +52,43 @@ def calculate_reconstitution(req: CalculateRequest) -> CalculateResponse:
         syringe_units=syringe_units,
         label=label,
     )
+
+
+def recommend_reconstitution(
+    vial_mg: float,
+    dose_mcg: float,
+    syringe_type: Literal["U100", "U40"] = "U100",
+) -> dict[str, Any]:
+    """Recommend BAC water volume so a dose lands near a convenient syringe draw."""
+    if vial_mg <= 0:
+        raise ValueError("vial_mg must be positive")
+    if dose_mcg <= 0:
+        raise ValueError("dose_mcg must be positive")
+    if syringe_type not in ("U100", "U40"):
+        raise ValueError("syringe_type must be U100 or U40")
+
+    units_per_mL = 100 if syringe_type == "U100" else 40
+    target_units = 10
+    target_inject_mL = target_units / units_per_mL
+    ideal_water_mL = target_inject_mL * vial_mg * 1000 / dose_mcg
+    water_mL = min(3.0, max(1.0, round(ideal_water_mL * 2) / 2))
+
+    req = CalculateRequest(
+        vial_mg=vial_mg,
+        water_mL=water_mL,
+        dose_mcg=dose_mcg,
+        syringe_type=syringe_type,
+    )
+    result = calculate_reconstitution(req)
+    payload = result.model_dump()
+    payload.update(
+        {
+            "vial_mg": vial_mg,
+            "dose_mcg": dose_mcg,
+            "water_mL": water_mL,
+            "target_units": target_units,
+            "ideal_water_mL": ideal_water_mL,
+            "method": "rounded_to_nearest_0.5mL_between_1.0_and_3.0_targeting_15_units",
+        }
+    )
+    return payload

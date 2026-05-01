@@ -1,4 +1,7 @@
 # PeptiScout backend — Python 3.11+
+#
+# Run API from repo root (not backend/): python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
+# If the project folder was moved, recreate the venv so launcher shebangs match this path.
 
 # Core API
 fastapi>=0.115.0,<0.116.0
@@ -25,9 +28,9 @@ tiktoken>=0.8.0,<1.0.0
 tqdm>=4.66.0,<5.0.0
 numpy>=1.26.0,<3.0.0
 
-# Local fine-tuned inference (Step 6+) — install when needed; wheels are large
-# torch>=2.5.0
-# transformers>=4.47.0
-# peft>=0.14.0
-# bitsandbytes>=0.45.0
-# accelerate>=1.0.0
+# Local fine-tuned inference (Step 6 — mode=fine-tuned on /api/query); large wheels / CUDA
+torch>=2.5.0,<2.8.0
+transformers>=4.47.0,<5.0.0
+peft>=0.14.0,<0.16.0
+bitsandbytes>=0.45.0,<0.47.0
+accelerate>=1.0.0,<2.0.0

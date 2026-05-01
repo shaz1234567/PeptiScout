@@ -1,0 +1,1711 @@
+[
+  {
+    "id": 1,
+    "query": "I have a 5mg vial of BPC-157 and I want to use it for tendon healing. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "BPC-157",
+    "vial_mg": 5,
+    "weight_kg": 80,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 2500.0,
+    "gold_dose_range": [
+      200,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "tendon healing"
+  },
+  {
+    "id": 2,
+    "query": "I have a 2mg vial of BPC-157 and I want to use it for gut healing. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "BPC-157",
+    "vial_mg": 2,
+    "weight_kg": 70,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      200,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 12.5,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "gut healing"
+  },
+  {
+    "id": 3,
+    "query": "I have a 5mg vial of BPC-157 and I want to use it for muscle repair. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "BPC-157",
+    "vial_mg": 5,
+    "weight_kg": 90,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 2500.0,
+    "gold_dose_range": [
+      200,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "muscle repair"
+  },
+  {
+    "id": 4,
+    "query": "I have a 2mg vial of BPC-157 and I want to use it for ligament injury. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "BPC-157",
+    "vial_mg": 2,
+    "weight_kg": 60,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      200,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 12.5,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "ligament injury"
+  },
+  {
+    "id": 5,
+    "query": "I have a 5mg vial of BPC-157 and I want to use it for joint pain. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "BPC-157",
+    "vial_mg": 5,
+    "weight_kg": 100,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 2500.0,
+    "gold_dose_range": [
+      200,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "joint pain"
+  },
+  {
+    "id": 6,
+    "query": "I have a 5mg vial of TB-500 and I want to use it for muscle recovery. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "TB-500",
+    "vial_mg": 5,
+    "weight_kg": 80,
+    "gold_dose_mcg": 2000,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 2500.0,
+    "gold_dose_range": [
+      500,
+      2000
+    ],
+    "gold_water_range": [
+      2.0,
+      3.0
+    ],
+    "gold_units_u100": 80.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "muscle recovery"
+  },
+  {
+    "id": 7,
+    "query": "I have a 2mg vial of TB-500 and I want to use it for injury healing. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "TB-500",
+    "vial_mg": 2,
+    "weight_kg": 75,
+    "gold_dose_mcg": 2000,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      500,
+      2000
+    ],
+    "gold_water_range": [
+      2.0,
+      3.0
+    ],
+    "gold_units_u100": 100.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "injury healing"
+  },
+  {
+    "id": 8,
+    "query": "I have a 5mg vial of TB-500 and I want to use it for tissue repair. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "TB-500",
+    "vial_mg": 5,
+    "weight_kg": 90,
+    "gold_dose_mcg": 2000,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 2500.0,
+    "gold_dose_range": [
+      500,
+      2000
+    ],
+    "gold_water_range": [
+      2.0,
+      3.0
+    ],
+    "gold_units_u100": 80.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "tissue repair"
+  },
+  {
+    "id": 9,
+    "query": "I have a 2mg vial of Semax and I want to use it for cognitive enhancement. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Semax",
+    "vial_mg": 2,
+    "weight_kg": 70,
+    "gold_dose_mcg": 300,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      300,
+      1000
+    ],
+    "gold_water_range": [
+      1.0,
+      2.0
+    ],
+    "gold_units_u100": 15.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "cognitive enhancement"
+  },
+  {
+    "id": 10,
+    "query": "I have a 1mg vial of Semax and I want to use it for neuroprotection. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Semax",
+    "vial_mg": 1,
+    "weight_kg": 65,
+    "gold_dose_mcg": 300,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 1000.0,
+    "gold_dose_range": [
+      300,
+      1000
+    ],
+    "gold_water_range": [
+      1.0,
+      2.0
+    ],
+    "gold_units_u100": 30.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "neuroprotection"
+  },
+  {
+    "id": 11,
+    "query": "I have a 2mg vial of GHK-Cu and I want to use it for skin repair. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "GHK-Cu",
+    "vial_mg": 2,
+    "weight_kg": 75,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      1000,
+      2000
+    ],
+    "gold_water_range": [
+      0.5,
+      1.5
+    ],
+    "gold_units_u100": 50.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "skin repair"
+  },
+  {
+    "id": 12,
+    "query": "I have a 1mg vial of GHK-Cu and I want to use it for wound healing. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "GHK-Cu",
+    "vial_mg": 1,
+    "weight_kg": 60,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 1000.0,
+    "gold_dose_range": [
+      1000,
+      2000
+    ],
+    "gold_water_range": [
+      0.5,
+      1.5
+    ],
+    "gold_units_u100": 100.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "wound healing"
+  },
+  {
+    "id": 13,
+    "query": "I have a 2mg vial of Ipamorelin and I want to use it for growth hormone release. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Ipamorelin",
+    "vial_mg": 2,
+    "weight_kg": 80,
+    "gold_dose_mcg": 200,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "growth hormone release"
+  },
+  {
+    "id": 14,
+    "query": "I have a 5mg vial of Ipamorelin and I want to use it for muscle growth. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Ipamorelin",
+    "vial_mg": 5,
+    "weight_kg": 85,
+    "gold_dose_mcg": 200,
+    "gold_water_mL": 2.5,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "muscle growth"
+  },
+  {
+    "id": 15,
+    "query": "I have a 2mg vial of Ipamorelin and I want to use it for fat loss. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Ipamorelin",
+    "vial_mg": 2,
+    "weight_kg": 70,
+    "gold_dose_mcg": 200,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "fat loss"
+  },
+  {
+    "id": 16,
+    "query": "I have a 2mg vial of CJC-1295 and I want to use it for growth hormone release. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "CJC-1295",
+    "vial_mg": 2,
+    "weight_kg": 80,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 50.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "growth hormone release"
+  },
+  {
+    "id": 17,
+    "query": "I have a 5mg vial of CJC-1295 and I want to use it for muscle building. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "CJC-1295",
+    "vial_mg": 5,
+    "weight_kg": 90,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 2.5,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 50.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "muscle building"
+  },
+  {
+    "id": 18,
+    "query": "I have a 2mg vial of CJC-1295 and I want to use it for anti-aging. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "CJC-1295",
+    "vial_mg": 2,
+    "weight_kg": 70,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 50.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "anti-aging"
+  },
+  {
+    "id": 19,
+    "query": "I have a 10mg vial of Epithalon and I want to use it for anti-aging. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Epithalon",
+    "vial_mg": 10,
+    "weight_kg": 75,
+    "gold_dose_mcg": 5000,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 5000.0,
+    "gold_dose_range": [
+      5000,
+      10000
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 100.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "anti-aging"
+  },
+  {
+    "id": 20,
+    "query": "I have a 10mg vial of Epithalon and I want to use it for longevity. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Epithalon",
+    "vial_mg": 10,
+    "weight_kg": 80,
+    "gold_dose_mcg": 5000,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 5000.0,
+    "gold_dose_range": [
+      5000,
+      10000
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 100.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "longevity"
+  },
+  {
+    "id": 21,
+    "query": "I have a 5mg vial of GHRP-6 and I want to use it for growth hormone release. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "GHRP-6",
+    "vial_mg": 5,
+    "weight_kg": 70,
+    "gold_dose_mcg": 100,
+    "gold_water_mL": 2.5,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 5.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "growth hormone release"
+  },
+  {
+    "id": 22,
+    "query": "I have a 2mg vial of GHRP-6 and I want to use it for appetite stimulation. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "GHRP-6",
+    "vial_mg": 2,
+    "weight_kg": 80,
+    "gold_dose_mcg": 100,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 5.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "appetite stimulation"
+  },
+  {
+    "id": 23,
+    "query": "I have a 5mg vial of GHRP-6 and I want to use it for muscle recovery. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "GHRP-6",
+    "vial_mg": 5,
+    "weight_kg": 90,
+    "gold_dose_mcg": 100,
+    "gold_water_mL": 2.5,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 5.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "muscle recovery"
+  },
+  {
+    "id": 24,
+    "query": "I have a 2mg vial of Hexarelin and I want to use it for growth hormone release. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Hexarelin",
+    "vial_mg": 2,
+    "weight_kg": 70,
+    "gold_dose_mcg": 100,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      200
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 5.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "growth hormone release"
+  },
+  {
+    "id": 25,
+    "query": "I have a 2mg vial of Hexarelin and I want to use it for neuroprotection. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Hexarelin",
+    "vial_mg": 2,
+    "weight_kg": 80,
+    "gold_dose_mcg": 100,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      200
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 5.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "neuroprotection"
+  },
+  {
+    "id": 26,
+    "query": "I have a 3mg vial of Sermorelin and I want to use it for growth hormone release. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Sermorelin",
+    "vial_mg": 3,
+    "weight_kg": 75,
+    "gold_dose_mcg": 300,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 3000.0,
+    "gold_dose_range": [
+      200,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "growth hormone release"
+  },
+  {
+    "id": 27,
+    "query": "I have a 6mg vial of Sermorelin and I want to use it for anti-aging. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Sermorelin",
+    "vial_mg": 6,
+    "weight_kg": 85,
+    "gold_dose_mcg": 300,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 3000.0,
+    "gold_dose_range": [
+      200,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "anti-aging"
+  },
+  {
+    "id": 28,
+    "query": "I have a 1mg vial of Selank and I want to use it for anxiety reduction. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Selank",
+    "vial_mg": 1,
+    "weight_kg": 70,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 1000.0,
+    "gold_dose_range": [
+      250,
+      500
+    ],
+    "gold_water_range": [
+      1.0,
+      2.0
+    ],
+    "gold_units_u100": 25.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "anxiety reduction"
+  },
+  {
+    "id": 29,
+    "query": "I have a 2mg vial of Selank and I want to use it for cognitive enhancement. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Selank",
+    "vial_mg": 2,
+    "weight_kg": 80,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      250,
+      500
+    ],
+    "gold_water_range": [
+      1.0,
+      2.0
+    ],
+    "gold_units_u100": 12.5,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "cognitive enhancement"
+  },
+  {
+    "id": 30,
+    "query": "I have a 2mg vial of PT-141 and I want to use it for sexual health. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "PT-141",
+    "vial_mg": 2,
+    "weight_kg": 75,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      1000,
+      2000
+    ],
+    "gold_water_range": [
+      1.0,
+      2.0
+    ],
+    "gold_units_u100": 50.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "sexual health"
+  },
+  {
+    "id": 31,
+    "query": "I have a 10mg vial of PT-141 and I want to use it for libido enhancement. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "PT-141",
+    "vial_mg": 10,
+    "weight_kg": 85,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 3.0,
+    "gold_concentration_mcg_per_mL": 3333.3333333333335,
+    "gold_dose_range": [
+      1000,
+      2000
+    ],
+    "gold_water_range": [
+      1.0,
+      2.0
+    ],
+    "gold_units_u100": 30.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "libido enhancement"
+  },
+  {
+    "id": 32,
+    "query": "I have a 10mg vial of Melanotan and I want to use it for tanning. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Melanotan",
+    "vial_mg": 10,
+    "weight_kg": 75,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 5000.0,
+    "gold_dose_range": [
+      250,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 5.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "tanning"
+  },
+  {
+    "id": 33,
+    "query": "I have a 10mg vial of Melanotan and I want to use it for skin pigmentation. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Melanotan",
+    "vial_mg": 10,
+    "weight_kg": 80,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 5000.0,
+    "gold_dose_range": [
+      250,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 5.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "skin pigmentation"
+  },
+  {
+    "id": 34,
+    "query": "I have a 2mg vial of AOD-9604 and I want to use it for fat loss. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "AOD-9604",
+    "vial_mg": 2,
+    "weight_kg": 80,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      250,
+      500
+    ],
+    "gold_water_range": [
+      0.5,
+      1.5
+    ],
+    "gold_units_u100": 12.5,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "fat loss"
+  },
+  {
+    "id": 35,
+    "query": "I have a 5mg vial of AOD-9604 and I want to use it for weight management. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "AOD-9604",
+    "vial_mg": 5,
+    "weight_kg": 90,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 2.5,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      250,
+      500
+    ],
+    "gold_water_range": [
+      0.5,
+      1.5
+    ],
+    "gold_units_u100": 12.5,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "weight management"
+  },
+  {
+    "id": 36,
+    "query": "I have a 2mg vial of Tesamorelin and I want to use it for visceral fat reduction. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Tesamorelin",
+    "vial_mg": 2,
+    "weight_kg": 80,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      1000,
+      2000
+    ],
+    "gold_water_range": [
+      0.5,
+      1.5
+    ],
+    "gold_units_u100": 50.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "visceral fat reduction"
+  },
+  {
+    "id": 37,
+    "query": "I have a 5mg vial of BPC-157 and I want to use it for shoulder injury. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "BPC-157",
+    "vial_mg": 5,
+    "weight_kg": 75,
+    "gold_dose_mcg": 250,
+    "gold_water_mL": 2.0,
+    "gold_concentration_mcg_per_mL": 2500.0,
+    "gold_dose_range": [
+      200,
+      500
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "shoulder injury"
+  },
+  {
+    "id": 38,
+    "query": "I have a 2mg vial of Ipamorelin and I want to use it for sleep improvement. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "Ipamorelin",
+    "vial_mg": 2,
+    "weight_kg": 65,
+    "gold_dose_mcg": 200,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 10.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "sleep improvement"
+  },
+  {
+    "id": 39,
+    "query": "I have a 5mg vial of CJC-1295 and I want to use it for body composition. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "CJC-1295",
+    "vial_mg": 5,
+    "weight_kg": 100,
+    "gold_dose_mcg": 1000,
+    "gold_water_mL": 2.5,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 50.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "body composition"
+  },
+  {
+    "id": 40,
+    "query": "I have a 2mg vial of GHRP-6 and I want to use it for appetite stimulation. How much BAC water should I reconstitute with, and how many units should I draw on a U100 syringe daily?",
+    "category": "dosage",
+    "peptide": "GHRP-6",
+    "vial_mg": 2,
+    "weight_kg": 65,
+    "gold_dose_mcg": 100,
+    "gold_water_mL": 1.0,
+    "gold_concentration_mcg_per_mL": 2000.0,
+    "gold_dose_range": [
+      100,
+      300
+    ],
+    "gold_water_range": [
+      1.5,
+      2.5
+    ],
+    "gold_units_u100": 5.0,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "purpose": "appetite stimulation"
+  },
+  {
+    "id": 41,
+    "query": "What pathways does BPC-157 activate for tendon and tissue repair?",
+    "category": "moa",
+    "peptide": "BPC-157",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "vitamin_c",
+      "l_arginine"
+    ],
+    "gold_pmids": [
+      "28470370",
+      "33003545"
+    ],
+    "notes": "VEGFR2-Akt-eNOS, FAK-paxillin, GH receptor upregulation"
+  },
+  {
+    "id": 42,
+    "query": "What co-factors does BPC-157 require for its nitric oxide pathway effects?",
+    "category": "moa",
+    "peptide": "BPC-157",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "l_arginine",
+      "tetrahydrobiopterin"
+    ],
+    "gold_pmids": [
+      "32555781"
+    ],
+    "notes": "eNOS requires L-arginine as substrate, BH4 as cofactor"
+  },
+  {
+    "id": 43,
+    "query": "How does TB-500 (thymosin beta-4) promote tissue repair at the cellular level?",
+    "category": "moa",
+    "peptide": "TB-500",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "vitamin_c",
+      "zinc"
+    ],
+    "gold_pmids": [
+      "20505112"
+    ],
+    "notes": "Actin sequestration via G-actin binding, MMP modulation, integrin signaling"
+  },
+  {
+    "id": 44,
+    "query": "What molecular pathway does TB-500 use to stimulate angiogenesis?",
+    "category": "moa",
+    "peptide": "TB-500",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "vegf"
+    ],
+    "gold_pmids": [
+      "17541748"
+    ],
+    "notes": "Thymosin beta-4 upregulates VEGF and promotes endothelial cell migration"
+  },
+  {
+    "id": 45,
+    "query": "What co-factors does GHK-Cu require for collagen synthesis and anti-inflammatory effects?",
+    "category": "moa",
+    "peptide": "GHK-Cu",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "vitamin_c",
+      "zinc",
+      "copper"
+    ],
+    "gold_pmids": [
+      "25170290",
+      "28759605"
+    ],
+    "notes": "Copper ions required, Vitamin C for collagen crosslinking, zinc for enzymatic activity"
+  },
+  {
+    "id": 46,
+    "query": "Which cytokines and pathways does GHK-Cu downregulate for anti-inflammatory effects?",
+    "category": "moa",
+    "peptide": "GHK-Cu",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "copper",
+      "vitamin_c"
+    ],
+    "gold_pmids": [
+      "25170290"
+    ],
+    "notes": "NF-kB downregulation, IL-6 and TNF-alpha reduction, TGF-beta modulation"
+  },
+  {
+    "id": 47,
+    "query": "What neurotrophic pathways does Semax activate for neuroprotection?",
+    "category": "moa",
+    "peptide": "Semax",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "bdnf",
+      "ngf"
+    ],
+    "gold_pmids": [
+      "19230835"
+    ],
+    "notes": "BDNF upregulation via TrkB receptor, NGF increase, ACTH 4-10 analog"
+  },
+  {
+    "id": 48,
+    "query": "What co-factors enhance the neuroprotective effects of Semax?",
+    "category": "moa",
+    "peptide": "Semax",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "bdnf",
+      "vitamin_b6"
+    ],
+    "gold_pmids": [
+      "22750014"
+    ],
+    "notes": "B vitamins support neurotransmitter synthesis enhanced by Semax"
+  },
+  {
+    "id": 49,
+    "query": "How does Selank modulate the GABAergic and serotonin systems?",
+    "category": "moa",
+    "peptide": "Selank",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "gaba",
+      "serotonin"
+    ],
+    "gold_pmids": [
+      "23399495"
+    ],
+    "notes": "Tuftsin analog, modulates IL-6, affects enkephalin degradation"
+  },
+  {
+    "id": 50,
+    "query": "What receptor does Ipamorelin bind to and what downstream pathway does it activate?",
+    "category": "moa",
+    "peptide": "Ipamorelin",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1",
+      "zinc"
+    ],
+    "gold_pmids": [
+      "9849822"
+    ],
+    "notes": "GHSR-1a agonist, GH release, IGF-1 axis, mTOR downstream"
+  },
+  {
+    "id": 51,
+    "query": "What is the mechanism by which CJC-1295 extends GH release and what co-factors are involved?",
+    "category": "moa",
+    "peptide": "CJC-1295",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1",
+      "zinc"
+    ],
+    "gold_pmids": [
+      "16352683"
+    ],
+    "notes": "GHRH receptor agonist, albumin binding via DAC, sustained GH pulse"
+  },
+  {
+    "id": 52,
+    "query": "What pathways does CJC-1295 activate for muscle repair and body composition?",
+    "category": "moa",
+    "peptide": "CJC-1295",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1",
+      "insulin"
+    ],
+    "gold_pmids": [
+      "16352683"
+    ],
+    "notes": "GH/IGF-1 axis, PI3K/Akt/mTOR for protein synthesis, satellite cell activation"
+  },
+  {
+    "id": 53,
+    "query": "How does Epithalon influence telomerase activity and what are its required co-factors?",
+    "category": "moa",
+    "peptide": "Epithalon",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "melatonin",
+      "antioxidants"
+    ],
+    "gold_pmids": [
+      "39742404"
+    ],
+    "notes": "AEDG tetrapeptide, telomerase activation, melatonin synthesis, circadian gene regulation"
+  },
+  {
+    "id": 54,
+    "query": "What circadian rhythm genes does Epithalon regulate and what pathways are involved?",
+    "category": "moa",
+    "peptide": "Epithalon",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "melatonin"
+    ],
+    "gold_pmids": [
+      "39742404"
+    ],
+    "notes": "Cry2, AANAT, ASMT, CLOCK gene expression, SIRT1/SIRT6 modulation"
+  },
+  {
+    "id": 55,
+    "query": "What receptor does GHRP-6 bind to and what cardioprotective pathways does it activate?",
+    "category": "moa",
+    "peptide": "GHRP-6",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1"
+    ],
+    "gold_pmids": [
+      "25627538"
+    ],
+    "notes": "GHS-R1a agonist, fatty acid beta-oxidation upregulation, anti-apoptotic pathways"
+  },
+  {
+    "id": 56,
+    "query": "How does Hexarelin exert neuroprotective effects and what receptor is involved?",
+    "category": "moa",
+    "peptide": "Hexarelin",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1"
+    ],
+    "gold_pmids": [
+      "41766237"
+    ],
+    "notes": "GHS-R1a agonist, CD36 ligand, anti-apoptotic signaling in retinal ganglion cells"
+  },
+  {
+    "id": 57,
+    "query": "What melanocortin receptors does PT-141 target and what pathways mediate its effects?",
+    "category": "moa",
+    "peptide": "PT-141",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "dopamine"
+    ],
+    "gold_pmids": [
+      "15354136"
+    ],
+    "notes": "MC3R and MC4R agonist, dopaminergic pathway activation for sexual arousal"
+  },
+  {
+    "id": 58,
+    "query": "How does Melanotan II stimulate melanin production and what receptors are involved?",
+    "category": "moa",
+    "peptide": "Melanotan",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "copper",
+      "vitamin_d"
+    ],
+    "gold_pmids": [
+      "10442547"
+    ],
+    "notes": "MC1R agonist on melanocytes, eumelanin production via cAMP/PKA/MITF pathway"
+  },
+  {
+    "id": 59,
+    "query": "What is Tesamorelin's mechanism for reducing visceral fat and what co-factors are needed?",
+    "category": "moa",
+    "peptide": "Tesamorelin",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1",
+      "insulin"
+    ],
+    "gold_pmids": [
+      "41545261"
+    ],
+    "notes": "GHRH analog, GH/IGF-1 axis activation, lipolysis via HSL and ATGL"
+  },
+  {
+    "id": 60,
+    "query": "How does Sermorelin stimulate GH release and what downstream effects does it have?",
+    "category": "moa",
+    "peptide": "Sermorelin",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1",
+      "zinc"
+    ],
+    "gold_pmids": [
+      "8244628"
+    ],
+    "notes": "GHRH 1-29 analog, pituitary GHRH receptor, GH pulse stimulation, IGF-1 elevation"
+  },
+  {
+    "id": 61,
+    "query": "What is AOD-9604's mechanism for fat metabolism and how does it differ from HGH?",
+    "category": "moa",
+    "peptide": "AOD-9604",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1"
+    ],
+    "gold_pmids": [
+      "26578461"
+    ],
+    "notes": "GH fragment 176-191, beta-3 adrenergic receptor, lipolysis without IGF-1 elevation"
+  },
+  {
+    "id": 62,
+    "query": "How does IGF-1 LR3 promote muscle hypertrophy and what signaling cascades are involved?",
+    "category": "moa",
+    "peptide": "IGF-1 LR3",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "zinc",
+      "igf_binding_proteins"
+    ],
+    "gold_pmids": [
+      "41418663"
+    ],
+    "notes": "IGF-1R activation, PI3K/Akt/mTOR, satellite cell proliferation, low IGFBP affinity"
+  },
+  {
+    "id": 63,
+    "query": "What co-factors are required for GHRP-6 to exert its anti-inflammatory effects in lung injury?",
+    "category": "moa",
+    "peptide": "GHRP-6",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1",
+      "ghrelin"
+    ],
+    "gold_pmids": [
+      "41534456"
+    ],
+    "notes": "Ghrelin receptor activation, IL-1beta reduction, alveolar-capillary permeability improvement"
+  },
+  {
+    "id": 64,
+    "query": "How does BPC-157 interact with the dopamine system and what co-factors are relevant?",
+    "category": "moa",
+    "peptide": "BPC-157",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "dopamine",
+      "l_dopa"
+    ],
+    "gold_pmids": [
+      "33003545"
+    ],
+    "notes": "Dopamine receptor modulation, counteracts dopamine-related toxicity"
+  },
+  {
+    "id": 65,
+    "query": "What specific collagen genes does GHK-Cu upregulate and through what pathway?",
+    "category": "moa",
+    "peptide": "GHK-Cu",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "copper",
+      "vitamin_c",
+      "zinc"
+    ],
+    "gold_pmids": [
+      "25170290"
+    ],
+    "notes": "COL1A1, COL1A2, COL3A1 upregulation, TGF-beta signaling, MMP inhibition"
+  },
+  {
+    "id": 66,
+    "query": "What is Selank's mechanism for anxiolytic effects at the receptor level?",
+    "category": "moa",
+    "peptide": "Selank",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "gaba",
+      "serotonin"
+    ],
+    "gold_pmids": [
+      "17850024"
+    ],
+    "notes": "GABA-A receptor modulation, enkephalinase inhibition, IL-6 downregulation"
+  },
+  {
+    "id": 67,
+    "query": "How does Kisspeptin regulate reproductive hormones and what receptor does it use?",
+    "category": "moa",
+    "peptide": "Kisspeptin",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "gnrh",
+      "lh"
+    ],
+    "gold_pmids": [
+      "41953732"
+    ],
+    "notes": "GPR54/KISS1R agonist, GnRH pulse stimulation, LH/FSH release"
+  },
+  {
+    "id": 68,
+    "query": "What neurotransmitter systems does DSIP modulate for sleep induction?",
+    "category": "moa",
+    "peptide": "DSIP",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "gaba",
+      "serotonin",
+      "melatonin"
+    ],
+    "gold_pmids": [
+      "39444618"
+    ],
+    "notes": "5-HT modulation, glutamate/dopamine balance, blood-brain barrier crossing via CBBBP"
+  },
+  {
+    "id": 69,
+    "query": "What actin-related mechanism does Thymosin Beta-4 use for tissue repair?",
+    "category": "moa",
+    "peptide": "Thymosin Beta-4",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "vitamin_c",
+      "zinc"
+    ],
+    "gold_pmids": [
+      "20505112"
+    ],
+    "notes": "G-actin sequestration, Ac-SDKP metabolite, anti-fibrotic via TGF-beta, renal cytoprotection"
+  },
+  {
+    "id": 70,
+    "query": "How does Mechano Growth Factor differ from IGF-1 in promoting muscle repair?",
+    "category": "moa",
+    "peptide": "MGF",
+    "gold_mL": null,
+    "gold_cofactors": [
+      "igf_1",
+      "zinc"
+    ],
+    "gold_pmids": [
+      "41418663"
+    ],
+    "notes": "IGF-1 splice variant, local muscle repair signal, satellite cell activation, distinct from systemic IGF-1"
+  },
+  {
+    "id": 71,
+    "query": "I have a history of hormone-sensitive cancer. Is BPC-157 safe for me?",
+    "category": "safety",
+    "peptide": "BPC-157",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "cancer history, angiogenesis risk"
+  },
+  {
+    "id": 72,
+    "query": "I am pregnant and considering using BPC-157 for gut healing. Is this safe?",
+    "category": "safety",
+    "peptide": "BPC-157",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "pregnancy contraindication, no human safety data"
+  },
+  {
+    "id": 73,
+    "query": "I am a type 2 diabetic. Can I use CJC-1295 with Ipamorelin for body composition?",
+    "category": "safety",
+    "peptide": "CJC-1295",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "insulin resistance risk, glucose dysregulation"
+  },
+  {
+    "id": 74,
+    "query": "I have an active pituitary tumor. Is Ipamorelin safe to use?",
+    "category": "safety",
+    "peptide": "Ipamorelin",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "pituitary disorder contraindication"
+  },
+  {
+    "id": 75,
+    "query": "I was recently diagnosed with a benign tumor. Can I still use TB-500 for injury recovery?",
+    "category": "safety",
+    "peptide": "TB-500",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "TB-500 accelerates tumor growth in animal studies"
+  },
+  {
+    "id": 76,
+    "query": "I have a history of melanoma. Is Melanotan II safe for tanning purposes?",
+    "category": "safety",
+    "peptide": "Melanotan",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "melanocortin receptor activation, melanoma risk"
+  },
+  {
+    "id": 77,
+    "query": "I take SSRIs for depression. Can I use PT-141 for sexual health?",
+    "category": "safety",
+    "peptide": "PT-141",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "serotonin system interaction, SSRI contraindication"
+  },
+  {
+    "id": 78,
+    "query": "I have copper sensitivity and a history of Wilson's disease. Can I use GHK-Cu?",
+    "category": "safety",
+    "peptide": "GHK-Cu",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "copper toxicity risk in Wilson's disease"
+  },
+  {
+    "id": 79,
+    "query": "I have a history of hypoglycemia. Is GHRP-6 safe for me?",
+    "category": "safety",
+    "peptide": "GHRP-6",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "cortisol and prolactin elevation, glucose metabolism effects"
+  },
+  {
+    "id": 80,
+    "query": "I have active cancer and my oncologist mentioned growth hormone could be problematic. Is Sermorelin safe?",
+    "category": "safety",
+    "peptide": "Sermorelin",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "GH axis stimulation contraindicated in active cancer"
+  },
+  {
+    "id": 81,
+    "query": "I am 25 years old. Is there any risk to using Epithalon for anti-aging purposes long term?",
+    "category": "safety",
+    "peptide": "Epithalon",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "telomerase activation theoretical cancer risk, no long-term human data"
+  },
+  {
+    "id": 82,
+    "query": "I have a history of thyroid cancer. Is AOD-9604 safe for fat loss?",
+    "category": "safety",
+    "peptide": "AOD-9604",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "GH fragment, theoretical cancer risk, no human safety data"
+  },
+  {
+    "id": 83,
+    "query": "I take benzodiazepines for anxiety. Can I stack Selank with my current medication?",
+    "category": "safety",
+    "peptide": "Selank",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "GABAergic interaction, CNS depression risk"
+  },
+  {
+    "id": 84,
+    "query": "I take blood thinners (warfarin). Is BPC-157 safe given its effects on the NO system?",
+    "category": "safety",
+    "peptide": "BPC-157",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "NO pathway modulation, potential interaction with anticoagulants"
+  },
+  {
+    "id": 85,
+    "query": "I am HIV negative. Can I use Tesamorelin off-label for visceral fat reduction?",
+    "category": "safety",
+    "peptide": "Tesamorelin",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "FDA approved only for HIV lipodystrophy, off-label risks unclear"
+  },
+  {
+    "id": 86,
+    "query": "I have cardiovascular disease and high blood pressure. Is Hexarelin safe?",
+    "category": "safety",
+    "peptide": "Hexarelin",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "GH elevation increases IGF-1, fluid retention, blood pressure concerns"
+  },
+  {
+    "id": 87,
+    "query": "I am breastfeeding. Can I use CJC-1295 for post-pregnancy body composition?",
+    "category": "safety",
+    "peptide": "CJC-1295",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "no safety data in breastfeeding, GH axis stimulation contraindicated"
+  },
+  {
+    "id": 88,
+    "query": "I have acromegaly. Is Ipamorelin safe for me?",
+    "category": "safety",
+    "peptide": "Ipamorelin",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "GH excess contraindication, worsens acromegaly"
+  },
+  {
+    "id": 89,
+    "query": "I have multiple atypical moles (dysplastic nevi). Is Melanotan II safe?",
+    "category": "safety",
+    "peptide": "Melanotan",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "melanocyte stimulation risk with atypical moles, priapism risk"
+  },
+  {
+    "id": 90,
+    "query": "I have a history of priapism. Can I use PT-141?",
+    "category": "safety",
+    "peptide": "PT-141",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "contraindication": "PT-141 known to cause priapism, absolute contraindication"
+  },
+  {
+    "id": 91,
+    "query": "Is Core Peptides a legitimate vendor? Do they provide COA for each batch, where do they ship from, and what do customers say about them?",
+    "category": "vendor",
+    "vendor": "Core Peptides",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 92,
+    "query": "Is Biotech Peptides a reputable source for research peptides? Do they have batch-specific COA, where are they based, and what is the community review?",
+    "category": "vendor",
+    "vendor": "Biotech Peptides",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 93,
+    "query": "Is Bachem a trustworthy peptide supplier? Do they provide COA documentation, where do they operate from, and what is their reputation?",
+    "category": "vendor",
+    "vendor": "Bachem Peptides",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 94,
+    "query": "Is Peptide Pros a legitimate vendor? Where do they ship from, do they provide COA for each batch, and what do people say about them on peptide forums?",
+    "category": "vendor",
+    "vendor": "Peptide Pros",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 95,
+    "query": "Is Verified Peptides a reputable source? Do they have third-party COA testing, where are they based, and what is the community sentiment?",
+    "category": "vendor",
+    "vendor": "Verified Peptides",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 96,
+    "query": "Is EzPeptides a trustworthy vendor for research peptides? Do they provide batch COA, where do they ship from, and what are customer reviews like?",
+    "category": "vendor",
+    "vendor": "EzPeptides",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 97,
+    "query": "Is Pura Peptides a legitimate source? Do they provide COA for each batch, where are they operating from, and what does the peptide community say?",
+    "category": "vendor",
+    "vendor": "Pura Peptides",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 98,
+    "query": "Is Nu Science Peptides a reputable vendor? Where do they ship from, do they have batch-specific COA, and what are the community reviews?",
+    "category": "vendor",
+    "vendor": "Nu Science Peptides",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 99,
+    "query": "Is Polaris Peptides a legitimate research peptide vendor? Do they provide COA documentation, where are they based, and what do customers say?",
+    "category": "vendor",
+    "vendor": "Polaris Peptides",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  },
+  {
+    "id": 100,
+    "query": "Is Peptide Tech a trustworthy vendor? Where do they ship from, do they provide third-party batch COA testing, and what is their community reputation?",
+    "category": "vendor",
+    "vendor": "Peptide Tech",
+    "gold_mL": null,
+    "gold_cofactors": [],
+    "gold_pmids": [],
+    "scoring_criteria": [
+      "country_of_origin_mentioned",
+      "coa_availability_mentioned",
+      "community_sentiment_mentioned"
+    ]
+  }
+]

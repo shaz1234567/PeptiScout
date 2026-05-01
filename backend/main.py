@@ -1,10 +1,12 @@
 from dotenv import load_dotenv
+
+# Load .env before importing routers (so env is available everywhere).
+load_dotenv()
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from backend.routers import query, results, tools
-
-load_dotenv()
 
 app = FastAPI(title="PeptiScout AI")
 

@@ -67,6 +67,8 @@ CHUNK_TOKENS = 200
 TEACHER_MODEL = "gpt-4o-mini"
 EMBEDDING_MODEL = "text-embedding-3-small"
 EMBEDDING_DIM = 1536
+# Pinecone metadata size limit per field — truncate stored chunk text (re-run --phase pinecone to backfill).
+PINECONE_METADATA_TEXT_MAX = 32000
 
 ALPACA_RELEVANCE_KEYWORDS: tuple[str, ...] = (
     "mechanism",
@@ -540,11 +542,16 @@ def phase_pinecone(client: Any, dry_run: bool) -> None:
             vec = resp.data[0].embedding
             if len(vec) != EMBEDDING_DIM:
                 logger.warning("Unexpected embedding dim %s", len(vec))
+            text_meta = ch[:PINECONE_METADATA_TEXT_MAX]
             vectors_batch.append(
                 {
                     "id": vid,
                     "values": vec,
-                    "metadata": {"pmid": pmid, "chunk_index": ci},
+                    "metadata": {
+                        "pmid": pmid,
+                        "chunk_index": ci,
+                        "text": text_meta,
+                    },
                 }
             )
             if len(vectors_batch) >= batch_size:

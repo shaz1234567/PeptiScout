@@ -3,13 +3,25 @@
 **/.DS_Store
 
 .env
+.env.*
+!.env.example
 __pycache__/
+**/__pycache__/
 *.py[cod]
 *$py.class
 *.so
 .Python
 venv/
 .venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
 node_modules/
 dist/
 backend/models/
+eval_log.txt
+backend/data/eval_checkpoint.json
+backend/data/raw_abstracts.json
+backend/data/results_llama_*.json
+backend/data/predictions_llama_*.json
