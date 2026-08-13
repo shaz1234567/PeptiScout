@@ -259,10 +259,4 @@ git status --short
 git check-ignore -v .env
 ```
 
-## Project Report
 
-For a full write-up of the CPS 5801 requirements, implementation, tools, benchmark, metrics, local GPT results, ablations, and limitations, see:
-
-```text
-PROJECT_REPORT.md
-```
